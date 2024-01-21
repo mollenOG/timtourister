@@ -1,0 +1,21 @@
+Aplicatie care sa ajute turismul in timisoara
+
+Idee: un fel de joc in care turistul viziteaza si primeste puncte pentru obiectivele turstice pe care le-a vizitat
+
+Sub idei:
+
+
+-modalitate de capatat xp in functie de ce viziteaza, fara challangeuri
+
+-diferite challangeruri care sa fie pe diferite categorii:
+	+ c zilei = valabile pentru evenimente precum concerte sau alte chestii asemantoare
+	+ c pe mai multe zile = valabile pentru trasee de vizitat
+		*faptul ca sunt pe mai multe zile este determiat de cate obiective turistice sunt si cat de departe sunt una de alta
+
+- sistem filtrare al ob turstice- badgeuri pt ob tur
+
+- userul sa poata pune poze in momentul in care se afla la o locatie in ideea de a putea sa vada si alti utilizatori locul unde a fost
+
+- reviewer pe ob turistice
+
+- buton care sa te duca pe Maps si sa te directioneze spre ob turstic
